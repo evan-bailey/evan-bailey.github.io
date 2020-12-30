@@ -1,0 +1,13 @@
+name: "evan-bailey"
+navbar:
+  title: "Evan Bailey"
+  left:
+    -text: "Home"
+    href: index.html
+  right:
+    -icon: fa-envelope fa-lg
+    href: mailto: evan.j.bailey@pm.me
+output:
+  html_document:
+    theme: bay_jekyll_theme
+    
